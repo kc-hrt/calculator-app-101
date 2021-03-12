@@ -1,0 +1,73 @@
+body {
+  margin: 10% auto;
+  width: 50%;
+  height: 75%;
+  background-color: seashell;
+}
+
+#addition {
+  background: none;
+  border: none;
+  color: #0f9f17;
+  padding: 1px 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 2.5em;
+}
+
+#subtraction {
+  background: none;
+  border: none;
+  color: #f6c30a;
+  padding: 1px 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 2.5em;
+}
+
+#multiplication {
+  background: none;
+  border: none;
+  color: #8543e7;
+  padding: 1px 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 2.5em;
+}
+
+#division {
+  background: none;
+  border: none;
+  color: #1d53d2;
+  padding: 1px 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 2.5em;
+}
+
+#modulus {
+  background: none;
+  border: none;
+  color: #d047a0;
+  padding: 1px 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 2em;
+}
+
+#clear {
+  background: none;
+  border: none;
+  color: #717171;
+  padding: 1px 10px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 1.5em;
+  font-weight: bolder;
+}
